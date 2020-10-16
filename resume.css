@@ -138,3 +138,19 @@ h1{
 #quote{
     width: 100%;
 }
+
+/* Validation styling */
+
+#htmlValidator{
+    margin: 20px 20px;
+    margin-bottom: 30px;
+}
+
+#htmlValidator h2{
+    margin-bottom: 20px;
+}
+
+#cssValidator{
+    margin: 20px 20px;
+}
+
