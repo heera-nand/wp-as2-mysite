@@ -139,6 +139,19 @@ h1{
     width: 100%;
 }
 
+/* Readme Styling */
+
+.readmeBody h2{
+    margin: 20px 10px;
+    margin-bottom: 30px;
+}
+
+.readmeBody p{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
 /* Validation styling */
 
 #htmlValidator{
